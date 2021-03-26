@@ -8,23 +8,28 @@
 ---
 
 A Menu is displayed on the Console for the user input
+
 ![Capture_PicturePuzzle_Console.PNG](https://github.com/04xRaynal/Picture_Puzzle_JavaSwing/blob/3a93f9a45fc0ac9a960a00289a2fae11a6c3186c/Captured%20Images/Capture_PicturePuzzle_Console.PNG)
 
 
 The chosen image is displayed as a puzzle in a Swing Frame for the user to solve.
 The last tile containing a star is the movable tile with which the puzzle can be solved.
+
 ![Capture_PicturePuzzle_Screen1.PNG](https://github.com/04xRaynal/Picture_Puzzle_JavaSwing/blob/3a93f9a45fc0ac9a960a00289a2fae11a6c3186c/Captured%20Images/Capture_PicturePuzzle_Screen1.PNG)
 
 
-Solution Button at the bottom displays the Solution for the particular chosen image
+Solution Button at the bottom displays the Solution for the particular chosen image.
+
 ![Capture_PicturePuzzle_Solution_Screen1.PNG](https://github.com/04xRaynal/Picture_Puzzle_JavaSwing/blob/3a93f9a45fc0ac9a960a00289a2fae11a6c3186c/Captured%20Images/Capture_PicturePuzzle_Solution_Screen1.PNG)
 
 
 When the puzzle is solved, a JOptionPane is displayed with a congratulatory text along with the time taken to complete the puzzle and the amount of button clicks required.
+
 ![Capture_PicturePuzzle_WonPane.PNG](https://github.com/04xRaynal/Picture_Puzzle_JavaSwing/blob/3a93f9a45fc0ac9a960a00289a2fae11a6c3186c/Captured%20Images/Capture_PicturePuzzle_WonPane.PNG)
 
 
-Similarly thw other two image puzzles can be solved
+Similarly the other two image puzzles can be solved.
+
 ![Capture_PicturePuzzle_Screen2.PNG](https://github.com/04xRaynal/Picture_Puzzle_JavaSwing/blob/3a93f9a45fc0ac9a960a00289a2fae11a6c3186c/Captured%20Images/Capture_PicturePuzzle_Screen2.PNG)
 
 ![Capture_PicturePuzzle_Screen3.PNG](https://github.com/04xRaynal/Picture_Puzzle_JavaSwing/blob/3a93f9a45fc0ac9a960a00289a2fae11a6c3186c/Captured%20Images/Capture_PicturePuzzle_Screen3.PNG)
