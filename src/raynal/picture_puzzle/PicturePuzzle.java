@@ -100,7 +100,7 @@ public class PicturePuzzle extends JFrame implements ActionListener{
 	
 	JPanel northWrapper, centerWrapper, southWrapper;
 	JLabel topLabel;
-	JLabel starImageButton;
+	JLabel starImageLabel;
 	JButton mainMenu, solutionImage, timeButton, clickButton;
 	BufferedImage sourceImage, resizedImage;
 	Image createdImage;
@@ -222,10 +222,10 @@ public class PicturePuzzle extends JFrame implements ActionListener{
 		//Adding labels and buttons to the frame
 		Image starImage = Toolkit.getDefaultToolkit().getImage("src\\resources\\star-icon.png").getScaledInstance(16, 16, Image.SCALE_SMOOTH);
 		topLabel = new JLabel("Star icon swaps with its neighouring icon");
-		starImageButton = new JLabel(new ImageIcon(starImage));
+		starImageLabel = new JLabel(new ImageIcon(starImage));
 		
 		northWrapper = new JPanel();
-		northWrapper.add(topLabel);  northWrapper.add(starImageButton);
+		northWrapper.add(topLabel);  northWrapper.add(starImageLabel);
 		
 		
 		mainMenu = new JButton("Menu");
