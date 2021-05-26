@@ -1,5 +1,6 @@
 # A Picture Puzzle using Java Swing
 ***
+
 #### A menu is displayed on console for the user input, to choose an image.
 #### The chosen image pieces are jumbled and the user has to put the images together in the right order.
 ##### Bottom of the Frame contains 4 buttons, Menu - redirects back to the console to choose a new image as a puzzle, 
